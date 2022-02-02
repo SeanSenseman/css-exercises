@@ -1,0 +1,19 @@
+p.red{
+    background-color: rgb(235, 155, 168);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blue {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#green {
+    background-color: hsl(120, 49%, 70%);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.twenty-four{
+    font-size: 24px;
+}
